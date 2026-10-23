@@ -1,0 +1,31 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+
+# Node dependencies & dist
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Environment variables & local secrets
+.env
+.env.local
+
+# Large datasets & checkpoints
+dataset/
+*.h5
+*.keras
+!models/.gitkeep
+
+# Operating system artifacts
+.DS_Store
+Thumbs.db

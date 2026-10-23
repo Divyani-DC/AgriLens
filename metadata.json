@@ -1,0 +1,6 @@
+{
+  "name": "AgriLens AI - Crop Disease Prediction System",
+  "description": "Intelligent crop health and disease detection using machine learning and computer vision on PlantVillage dataset. Machine Learning ISE-2 Project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
